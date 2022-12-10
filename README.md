@@ -31,7 +31,7 @@ v) How to we make a method not to be over ridden and a class not be inherited fu
 
 2b.
 
-3. Create class Number with only one private instance variable as a double primitive type.
+3.Create class Number with only one private instance variable as a double primitive type.
 To include the following methods (include respective constructors) isZero( ),
 isPositive(), isNegative( ), isOdd( ), isEven( ), isPrime(), isAmstrong() the above
 methods return boolean primitive type. getFactorial(), getSqrt(), getSqr(), sumDigits(),
