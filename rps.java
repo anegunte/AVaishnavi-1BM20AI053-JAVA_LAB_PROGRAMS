@@ -64,7 +64,7 @@ void display()
 }
 }
 
-class test_game
+class rps
 {
  public static void main(String args[])
  {
